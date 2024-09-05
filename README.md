@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Michael!
-- 👀 I’m interested in software and database development.
-- 🌱 I’m currently learning Java, HTML/CSS, JavaScript, C, and Python.
-- 💞️ I’m looking to collaborate on website creation and database systems.
+I am currently pursing a degree in Computer Science with a focus in Big Data Analytics. I am currently working in and learning python for data mining projects in school.
+I am looking to get more involved in data mining and machine learning proejcts and am excited to learn more.
 - 📫 E-mail: mlandis0103@gmail.com
 
 <!---
